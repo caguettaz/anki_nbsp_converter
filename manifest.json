@@ -1,0 +1,10 @@
+{
+    "package": "nbsp_converter",
+    "name": "NBSP Converter",
+    "modulenam": "nbsp_converter",
+    "author": "nobody",
+    "version": "0.1.0",
+    "min_point_version": 45,
+    "description": "This add-on automatically converts '&nbsp;' to a space character when storing a new or modified card in Anki."
+}
+
